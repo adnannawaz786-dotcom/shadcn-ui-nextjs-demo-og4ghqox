@@ -323,5 +323,6 @@ export default function Home() {
               <motion.div variants={buttonVariants} whileHover="hover" whileTap="tap">
                 <Button size="sm">Small Button</Button>
               </motion.div>
-              
-              <motion.div variants={buttonVariants} whileHover="hover" whileTap="tap">
+   <motion.div variants={buttonVariants} whileHover="hover" whileTap="tap">
+  <Button size="sm">Another Small Button</Button>
+</motion.div>
